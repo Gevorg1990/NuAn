@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/NuAn/',
+    // publicPath: '/NuAn/',
     css: {
         loaderOptions: {
             sass: {
