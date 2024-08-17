@@ -2,11 +2,10 @@
   "name": "new-lesson",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gevorg1990.github.io/vue/",
+  "homepage": "https://gevorg1990.github.io/NuAn/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "b": "npm run build",
     "deploy": "gh-pages -d dist"
   },
 
